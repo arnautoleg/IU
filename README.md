@@ -1,1 +1,1 @@
-![Relaxation proof](images/relax_proof.png)
+![Relaxation proof](Images/relax_proof.png)
